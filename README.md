@@ -4,7 +4,7 @@
 ## Summary
 - [Applying the NIST CSF](#applying-the-nist-csf)
 - [Case Study: Response to an ICMP Flood DDoS Attack](#case-study-response-to-an-icmp-flood-ddos-attack)
-- [Incident Report Analysis (pdf)]([https://github.com/mariarithanascimento/NIST-CSF-Portfolio/blob/af187be4e3bfe27f2da68bbfa370d6c0252daa14/An%C3%A1lise%20de%20relat%C3%B3rio%20de%20incidente.pdf](https://github.com/mariarithanascimento/NIST-CSF-Application-Portfolio/blob/712211a8142dc08b548dcda5f1c7e457abe84d51/Incident%20report%20analysis.pdf))
+- [Incident Report Analysis (pdf)](https://github.com/mariarithanascimento/NIST-CSF-Application-Portfolio/blob/712211a8142dc08b548dcda5f1c7e457abe84d51/Incident%20report%20analysis.pdf)
 
 ## `Applying the NIST CSF`
 
